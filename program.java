@@ -1,1 +1,3 @@
-public class program{}
+public class program{
+  //
+}
